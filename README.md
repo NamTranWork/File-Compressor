@@ -5,7 +5,7 @@
 2) Make sure that the repository folder gets cloned to a designated folder in your local device.
 3) Make sure that right files have been loaded, especially the header files, program files, and the Makefile.
 4) Go to the designated folder and open up the terminal.
-5) Once you are in the "asgn7" directory, enter the command: $ make.
+5) Once you are in the designated directory, enter the command: $ make.
 6) The commands in the Makefile will make compling the header and program files in the directory easier.
 7) There is two main executables called encode and decode.  Encode basically compresses a message from a text file or standard input to an output file or standard output.  Decode decompresses and regains the message from a text file or standard input to an output file or standard output.
 8) To run encode, do: $ stdin | ./encode <-options-> or ./encode -i infile <-options->
