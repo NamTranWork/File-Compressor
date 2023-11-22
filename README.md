@@ -1,4 +1,4 @@
-# Assignment 7 Documentation
+# File-Compressor Documentation
 
 ## Directions
 1) Open up the command line in Ubuntu 22.04 (Linux) and make sure that the clang complier and git have been installed in your local device.
